@@ -1,3 +1,7 @@
 # githubpage
- 
-its a sample page
+
+## skills 
+i can do
+- python
+- read
+- ...
